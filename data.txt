@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBV6u.webp",
+            "title": "mcpe 1.20 pe 1",
+            "text_Content_": "As of my last knowledge update in September 2021, Minecraft: Pocket Edition (MCPE) was a popular version of Minecraft for mobile devices. However, I don't have specific information about updates or features beyond that date, including version 1.20 PE."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBMGe.webp",
+            "title": "mcpe 1.20 pe 2",
+            "text_Content_": "If version 1.20 PE or a similar update has been released since then, it's likely to include new features, bug fixes, and improvements to enhance the gameplay experience. Here are some general ideas that could be implemented in a Minecraft Pocket Edition update"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBGn9.webp",
+            "title": "mcpe 1.20 pe 3",
+            "text_Content_": "Introduce unique and interesting biomes to diversify the game world. This could include fantasy biomes, such as floating islands, or more realistic ones like swamps with unique vegetation."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmB1Z7.webp",
+            "title": "mcpe 1.20 pe 4",
+            "text_Content_": "Add new mobs or creatures to the game. This might include friendly animals, hostile monsters, or even mythical creatures that add excitement and challenges to exploration."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBYv4.webp",
+            "title": "mcpe 1.20 pe 5",
+            "text_Content_": "Expand the variety of structures that can be found in the world, including villages with distinct architectural styles. This could encourage exploration and provide players with more resources and trading opportunities."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBayl.webp",
+            "title": "mcpe 1.20 pe 6",
+            "text_Content_": "Introduce new gameplay mechanics or refine existing ones. This could involve improvements to redstone functionality, new crafting recipes, or changes to how certain items or tools work."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmB0jS.webp",
+            "title": "mcpe 1.20 pe 7",
+            "text_Content_": "Enhance the underground experience by adding new cave systems, rare resources, and challenges for players who choose to explore the depths of the world."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJmBlu2.webp",
+            "title": "mcpe 1.20 pe 8",
+            "text_Content_": "Implement dynamic weather systems, such as rain, snow, or storms, that can impact gameplay and the appearance of the world."
         }
     ]
 }
